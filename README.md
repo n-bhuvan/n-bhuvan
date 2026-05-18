@@ -14,7 +14,7 @@
 📊 Interested in Data Analytics and Business Analytics  
 🚀 Building projects and documenting my learning journey  
 
-## 🌱 Currently Working On
+### 🌱 Currently Working On
 - 📘 Python Learning Journal
 - ☕ Java Projects
 - 🧠 DSA Practice
